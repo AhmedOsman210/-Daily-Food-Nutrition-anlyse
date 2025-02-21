@@ -1,5 +1,5 @@
-# Prepare the README content as a string
-readme_content = """
+
+readme_content
 # Daily Food and Nutrition Dataset Analysis
 
 ## Overview
